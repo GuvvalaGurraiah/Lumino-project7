@@ -1,0 +1,32 @@
+/* Custom Styles */
+nav ul {
+    display: flex;
+    gap: 200px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    justify-content: space-between;
+    list-style-type: none;
+}
+ body {
+    background-color: white;
+}
+.hero {
+    background: url('your-background-image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 150px 0;
+  }
+  
+  .card img {
+    height: 150px;
+    object-fit: cover;
+  }
+  .gallery-section img {
+    margin-bottom: 15px;
+    background-color: #f8f9fa;
+    margin: 0px;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+  }
